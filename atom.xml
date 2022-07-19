@@ -6,8 +6,8 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zuchuanchengxuyuan.github.io/"/>
-  <updated>2021-04-07T05:21:34.425Z</updated>
-  <id>http://www.kezhijia.cn/</id>
+  <updated>2021-09-20T07:31:54.482Z</updated>
+  <id>https://zuchuanchengxuyuan.github.io/</id>
   
   <author>
     <name>qhdr01d</name>
@@ -17,9 +17,228 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="https://zuchuanchengxuyuan.github.io/20220719/undefined/"/>
+    <id>https://zuchuanchengxuyuan.github.io/20220719/undefined/</id>
+    <published>2022-07-19T12:41:30.962Z</published>
+    <updated>2021-09-20T07:31:54.482Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;【**】隐藏命令方式&lt;br&gt;(1)&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt; &lt;span class=&quot;token keyword&quot;&gt;set&lt;/span&gt; +o
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://zuchuanchengxuyuan.github.io/20220719/Hello%20World/"/>
+    <id>https://zuchuanchengxuyuan.github.io/20220719/Hello World/</id>
+    <published>2022-07-19T12:41:17.433Z</published>
+    <updated>2021-04-07T05:21:51.032Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>linux vmware bug</title>
+    <link href="https://zuchuanchengxuyuan.github.io/20220718/linux%20vmware%20bug/"/>
+    <id>https://zuchuanchengxuyuan.github.io/20220718/linux vmware bug/</id>
+    <published>2022-07-18T14:30:00.000Z</published>
+    <updated>2022-07-19T12:12:20.767Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;物理机 ubuntu 20.04&lt;br&gt;每次打开虚拟机都会提示更新 模块 然后报 Unable to install all
+        
+      
+    
+    </summary>
+    
+      <category term="日常" scheme="https://zuchuanchengxuyuan.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+      <category term="日常" scheme="https://zuchuanchengxuyuan.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://zuchuanchengxuyuan.github.io/20210901/undefined/"/>
+    <id>https://zuchuanchengxuyuan.github.io/20210901/undefined/</id>
+    <published>2021-09-01T04:42:30.248Z</published>
+    <updated>2022-03-01T11:36:16.293Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;python3 shell.py &lt;a href=&quot;https://webmail.citg.ca/aspnet_client/txksu.aspx&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://zuchuanchengxuyuan.github.io/20210802/undefined/"/>
+    <id>https://zuchuanchengxuyuan.github.io/20210802/undefined/</id>
+    <published>2021-08-01T16:34:17.103Z</published>
+    <updated>2022-03-20T05:59:34.031Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;【**】wmic信息收集&lt;br&gt;(1)在目标机器上完成流程、服务、用户账户、用户组、网时区等信息的查询工作&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-cmd&quot;&gt;&lt;code class=&quot;language-cmd&quot;&gt;
+for /f
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>内网渗透</title>
+    <link href="https://zuchuanchengxuyuan.github.io/20210714/%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F/"/>
+    <id>https://zuchuanchengxuyuan.github.io/20210714/内网渗透/</id>
+    <published>2021-07-14T02:30:00.000Z</published>
+    <updated>2021-07-22T13:28:18.257Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;##信息收集阶段&lt;/p&gt;
+&lt;p&gt;1.查看内网arp段&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;arp -a
+&lt;span class=&quot;token
+        
+      
+    
+    </summary>
+    
+      <category term="命令总结" scheme="https://zuchuanchengxuyuan.github.io/categories/%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/"/>
+    
+    
+      <category term="内网渗透" scheme="https://zuchuanchengxuyuan.github.io/tags/%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://zuchuanchengxuyuan.github.io/20210708/undefined/"/>
+    <id>https://zuchuanchengxuyuan.github.io/20210708/undefined/</id>
+    <published>2021-07-08T09:00:45.890Z</published>
+    <updated>2022-05-10T07:40:01.190Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;cve-2022-1015&lt;/p&gt;
+&lt;p&gt;Linux Netfilter本地权限提升漏洞&lt;br&gt;&lt;a href=&quot;https://github.com/chenaotian/CVE-2022-25636.git&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://zuchuanchengxuyuan.github.io/20210630/undefined/"/>
+    <id>https://zuchuanchengxuyuan.github.io/20210630/undefined/</id>
+    <published>2021-06-29T19:00:47.854Z</published>
+    <updated>2021-07-21T08:35:24.227Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;phpstudy_backdoor-amd64.exe &lt;a href=&quot;http://101.201.146.164&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://101.201.146.164&lt;/a&gt;   &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>windows提权集合长期更新</title>
+    <link href="https://zuchuanchengxuyuan.github.io/20210407/windows%E6%8F%90%E6%9D%83%E9%9B%86%E5%90%88%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0/"/>
+    <id>https://zuchuanchengxuyuan.github.io/20210407/windows提权集合长期更新/</id>
+    <published>2021-04-07T13:21:26.000Z</published>
+    <updated>2022-07-19T12:26:16.512Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在渗透测试时权限是我们一直渴望的东西，下面总结下cve和提权技巧&lt;/p&gt;
+&lt;p&gt;  文章链接 下载链接    
+        
+      
+    
+    </summary>
+    
+      <category term="渗透" scheme="https://zuchuanchengxuyuan.github.io/categories/%E6%B8%97%E9%80%8F/"/>
+    
+    
+      <category term="渗透技巧" scheme="https://zuchuanchengxuyuan.github.io/tags/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2021年最赚钱的项目</title>
     <link href="https://zuchuanchengxuyuan.github.io/20210203/2021%E5%B9%B4%E6%9C%80%E8%B5%9A%E9%92%B1%E7%9A%84%E9%A1%B9%E7%9B%AE/"/>
-    <id>http://www.kezhijia.cn/20210203/2021年最赚钱的项目/</id>
+    <id>https://zuchuanchengxuyuan.github.io/20210203/2021年最赚钱的项目/</id>
     <published>2021-02-03T14:30:00.000Z</published>
     <updated>2021-04-07T05:21:34.425Z</updated>
     
@@ -35,17 +254,17 @@
     
     </summary>
     
-      <category term="新闻" scheme="http://www.kezhijia.cn/categories/%E6%96%B0%E9%97%BB/"/>
+      <category term="新闻" scheme="https://zuchuanchengxuyuan.github.io/categories/%E6%96%B0%E9%97%BB/"/>
     
     
-      <category term="安全事件" scheme="http://www.kezhijia.cn/tags/%E5%AE%89%E5%85%A8%E4%BA%8B%E4%BB%B6/"/>
+      <category term="安全事件" scheme="https://zuchuanchengxuyuan.github.io/tags/%E5%AE%89%E5%85%A8%E4%BA%8B%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
     <title>windows server 2012 dump密码</title>
-    <link href="http://www.kezhijia.cn/20210123/windows%20server%202012%20dump%E5%AF%86%E7%A0%81/"/>
-    <id>http://www.kezhijia.cn/20210123/windows server 2012 dump密码/</id>
+    <link href="https://zuchuanchengxuyuan.github.io/20210123/windows%20server%202012%20dump%E5%AF%86%E7%A0%81/"/>
+    <id>https://zuchuanchengxuyuan.github.io/20210123/windows server 2012 dump密码/</id>
     <published>2021-01-23T13:01:00.000Z</published>
     <updated>2021-04-07T05:23:02.492Z</updated>
     
@@ -62,45 +281,17 @@
     
     </summary>
     
-      <category term="渗透" scheme="http://www.kezhijia.cn/categories/%E6%B8%97%E9%80%8F/"/>
+      <category term="渗透" scheme="https://zuchuanchengxuyuan.github.io/categories/%E6%B8%97%E9%80%8F/"/>
     
     
-      <category term="渗透技巧" scheme="http://www.kezhijia.cn/tags/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>python高并发无限采集域名</title>
-    <link href="http://www.kezhijia.cn/20210101/python%E9%AB%98%E5%B9%B6%E5%8F%91%E6%97%A0%E9%99%90%E9%87%87%E9%9B%86%E5%9F%9F%E5%90%8D/"/>
-    <id>http://www.kezhijia.cn/20210101/python高并发无限采集域名/</id>
-    <published>2021-01-01T14:30:00.000Z</published>
-    <updated>2021-04-07T05:22:04.474Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;##前言&lt;br&gt;渗透测试第一步是收集信息，找到和漏洞匹配的目标肯定美滋滋,那我们就先采集大量的域名然后再筛选。于是就有了这个项目。&lt;/p&gt;
-&lt;p&gt;先看下目前成果。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/medias/domaininfo.png&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="开发" scheme="http://www.kezhijia.cn/categories/%E5%BC%80%E5%8F%91/"/>
-    
-    
-      <category term="扫描器" scheme="http://www.kezhijia.cn/tags/%E6%89%AB%E6%8F%8F%E5%99%A8/"/>
+      <category term="渗透技巧" scheme="https://zuchuanchengxuyuan.github.io/tags/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
   <entry>
     <title>solarwinds CVE-2020-10148 信息泄露扫描结果</title>
-    <link href="http://www.kezhijia.cn/20210101/solarwinds%20CVE-2020-10148%20%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E6%89%AB%E6%8F%8F%E7%BB%93%E6%9E%9C/"/>
-    <id>http://www.kezhijia.cn/20210101/solarwinds CVE-2020-10148 信息泄露扫描结果/</id>
+    <link href="https://zuchuanchengxuyuan.github.io/20210101/solarwinds%20CVE-2020-10148%20%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E6%89%AB%E6%8F%8F%E7%BB%93%E6%9E%9C/"/>
+    <id>https://zuchuanchengxuyuan.github.io/20210101/solarwinds CVE-2020-10148 信息泄露扫描结果/</id>
     <published>2021-01-01T14:30:00.000Z</published>
     <updated>2021-04-07T05:22:19.353Z</updated>
     
@@ -117,17 +308,43 @@
     
     </summary>
     
-      <category term="开发" scheme="http://www.kezhijia.cn/categories/%E5%BC%80%E5%8F%91/"/>
+      <category term="开发" scheme="https://zuchuanchengxuyuan.github.io/categories/%E5%BC%80%E5%8F%91/"/>
     
     
-      <category term="扫描器" scheme="http://www.kezhijia.cn/tags/%E6%89%AB%E6%8F%8F%E5%99%A8/"/>
+      <category term="扫描器" scheme="https://zuchuanchengxuyuan.github.io/tags/%E6%89%AB%E6%8F%8F%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python高并发无限采集域名</title>
+    <link href="https://zuchuanchengxuyuan.github.io/20210101/python%E9%AB%98%E5%B9%B6%E5%8F%91%E6%97%A0%E9%99%90%E9%87%87%E9%9B%86%E5%9F%9F%E5%90%8D/"/>
+    <id>https://zuchuanchengxuyuan.github.io/20210101/python高并发无限采集域名/</id>
+    <published>2021-01-01T14:30:00.000Z</published>
+    <updated>2022-07-19T11:57:52.417Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="开发" scheme="https://zuchuanchengxuyuan.github.io/categories/%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="扫描器" scheme="https://zuchuanchengxuyuan.github.io/tags/%E6%89%AB%E6%8F%8F%E5%99%A8/"/>
     
   </entry>
   
   <entry>
     <title>十大经典排序算法整理汇总（附代码）</title>
-    <link href="http://www.kezhijia.cn/20200216/%E5%8D%81%E5%A4%A7%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%95%B4%E7%90%86%E6%B1%87%E6%80%BB%EF%BC%88%E9%99%84%E4%BB%A3%E7%A0%81%EF%BC%89/"/>
-    <id>http://www.kezhijia.cn/20200216/十大经典排序算法整理汇总（附代码）/</id>
+    <link href="https://zuchuanchengxuyuan.github.io/20200216/%E5%8D%81%E5%A4%A7%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%95%B4%E7%90%86%E6%B1%87%E6%80%BB%EF%BC%88%E9%99%84%E4%BB%A3%E7%A0%81%EF%BC%89/"/>
+    <id>https://zuchuanchengxuyuan.github.io/20200216/十大经典排序算法整理汇总（附代码）/</id>
     <published>2020-02-16T07:09:23.000Z</published>
     <updated>2021-04-07T05:22:36.640Z</updated>
     
@@ -147,34 +364,12 @@
     
     </summary>
     
-      <category term="编程算法" scheme="http://www.kezhijia.cn/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+      <category term="编程算法" scheme="https://zuchuanchengxuyuan.github.io/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="leetcode" scheme="http://www.kezhijia.cn/tags/leetcode/"/>
+      <category term="leetcode" scheme="https://zuchuanchengxuyuan.github.io/tags/leetcode/"/>
     
-      <category term="算法" scheme="http://www.kezhijia.cn/tags/%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://www.kezhijia.cn/20190511/Hello%20World/"/>
-    <id>http://www.kezhijia.cn/20190511/Hello World/</id>
-    <published>2019-05-11T15:53:23.223Z</published>
-    <updated>2021-04-07T05:21:51.032Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
+      <category term="算法" scheme="https://zuchuanchengxuyuan.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   

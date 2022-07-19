@@ -1,6 +1,14 @@
-http://www.kezhijia.cn/20210203/2021年最赚钱的项目/
-http://www.kezhijia.cn/20210123/windows server 2012 dump密码/
-http://www.kezhijia.cn/20210101/python高并发无限采集域名/
-http://www.kezhijia.cn/20210101/solarwinds CVE-2020-10148 信息泄露扫描结果/
-http://www.kezhijia.cn/20200216/十大经典排序算法整理汇总（附代码）/
-http://www.kezhijia.cn/20190511/Hello World/
+https://zuchuanchengxuyuan.github.io/20220719/undefined/
+https://zuchuanchengxuyuan.github.io/20220719/Hello World/
+https://zuchuanchengxuyuan.github.io/20220718/linux vmware bug/
+https://zuchuanchengxuyuan.github.io/20210901/undefined/
+https://zuchuanchengxuyuan.github.io/20210802/undefined/
+https://zuchuanchengxuyuan.github.io/20210714/内网渗透/
+https://zuchuanchengxuyuan.github.io/20210708/undefined/
+https://zuchuanchengxuyuan.github.io/20210630/undefined/
+https://zuchuanchengxuyuan.github.io/20210407/windows提权集合长期更新/
+https://zuchuanchengxuyuan.github.io/20210203/2021年最赚钱的项目/
+https://zuchuanchengxuyuan.github.io/20210123/windows server 2012 dump密码/
+https://zuchuanchengxuyuan.github.io/20210101/solarwinds CVE-2020-10148 信息泄露扫描结果/
+https://zuchuanchengxuyuan.github.io/20210101/python高并发无限采集域名/
+https://zuchuanchengxuyuan.github.io/20200216/十大经典排序算法整理汇总（附代码）/
